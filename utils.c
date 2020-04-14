@@ -6,6 +6,7 @@
  * Department of Computer Science
  * History:
  * 13/4/2020: File created, function headers added.
+ * 13/4/2020: Add fcts parse & powi
  */
 #include <string.h>
 #include <stdlib.h>
